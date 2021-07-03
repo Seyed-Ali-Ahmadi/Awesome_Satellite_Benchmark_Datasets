@@ -2,7 +2,7 @@
  
 Annotated datasets have become one of the most crucial preconditions for the development and evaluation of machine learning-based methods designed for the automated interpretation of remote sensing data. In this study, we have reviewed the historic development of such datasets, discussed their features based on a few selected examples, and addressed open issues for future developments.
 
-To the best of our knowledge, and to the best of our findings, until May 2021, the following graph displays more than 90% of the benchmark datasets in remote sensing and photogrammetry. These graph includes all the available datasets which are acquired using airborne/spaceborne imaging/radar sensors. (It DOES NOT include POINT CLOUD datasets).
+To the best of our knowledge, and to the best of our findings, until May 2021, the following graph displays more than 90% of the benchmark datasets in remote sensing and photogrammetry. This graph includes all the available datasets which are acquired using airborne/spaceborne imaging/radar sensors. (It DOES NOT include POINT CLOUD datasets).
 This list is going to be more complete in the future and we are still working on it.
 
 ![Timeline graph new_final_correctedYAXIS](https://user-images.githubusercontent.com/53389122/124366325-2f19ea80-dc64-11eb-86c6-0efc8d269ffd.png)
