@@ -1,4 +1,15 @@
 # Awesome_Satellite_Benchmark_Datasets
+ 
+Annotated datasets have become one of the most crucial preconditions for the development and evaluation of machine learning-based methods designed for the automated interpretation of remote sensing data. In this paper, we review the historic development of such datasets, discuss their features based on a few selected examples, and address open issues for future developments.
+
+181 benchmark satellite datasets have been reviewed and their statistics is provided in the following table. The table includes a link to the datasets webpages, their volume, publication date, their specidied task and some other stats. The figures in the paper summarize these stats.
+
+Also, the following drawing simplifies the concept behind our "Size Measure" and "Volume Measure". 
+![Schmitt_IGARSS2021](https://user-images.githubusercontent.com/53389122/124365352-a51a5380-dc5c-11eb-8c51-6e4bd31a58c2.png)
+
+
+You can find more information at our IGARSS-2021 paper at https://arxiv.org/abs/2105.11726
+
 
 | Dataset Name                                                                   | Year of publication | Number of images | Size of images | Size Measure | Task         | Number of classes | Volume (MB) | link                                                                                                                                |
 |--------------------------------------------------------------------------------|---------------------|------------------|----------------|--------------|--------------|-------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------|
