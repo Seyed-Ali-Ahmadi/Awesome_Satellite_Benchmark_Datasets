@@ -1,4 +1,4 @@
-# Awesome_Benchmark_Satellite_Datasets
+# Awesome_Satellite_Benchmark_Datasets
 
 | Dataset Name                                                                   | Year of publication | Number of images | Size of images | Size Measure | Task         | Number of classes | Volume (MB) | link                                                                                                                                |
 |--------------------------------------------------------------------------------|---------------------|------------------|----------------|--------------|--------------|-------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------|
