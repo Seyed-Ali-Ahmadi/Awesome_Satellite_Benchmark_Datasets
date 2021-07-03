@@ -1,4 +1,4 @@
-# Awesome_Satellite_Benchmark_Datasets
+# Awesome Satellite Benchmark Datasets
  
 Annotated datasets have become one of the most crucial preconditions for the development and evaluation of machine learning-based methods designed for the automated interpretation of remote sensing data. In this study, we have reviewed the historic development of such datasets, discussed their features based on a few selected examples, and addressed open issues for future developments.
 
