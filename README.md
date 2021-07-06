@@ -18,6 +18,7 @@ Also, the following drawing simplifies the concept behind our "Size Measure" and
 
 You can find more information at our IGARSS-2021 paper at https://arxiv.org/abs/2105.11726
 
+*NOTICE: You can find each dataset's link on the most right column. Scroll the table to right!*
 
 
 
