@@ -200,3 +200,16 @@ You can find more information at our IGARSS-2021 paper at https://arxiv.org/abs/
 | AerialLanes18                                                                  | 2018                | 20               | 5616           | 420526080    | SemSeg       |                   |             |                                                                                                                                     |
 | WHU-Hi                                                                         | 2020                | 3                | 1217           | 1035251      | SemSeg       |                   | 817         | http://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm                                                                                 |
 | MOR-UAV                                                                        | 2020                | 10948            | 1080           | 12769747200  | SemSeg       |                   |             | https://visionintelligence.github.io/Datasets.html                                                                                  |
+
+
+
+## Citation
+In case you use this information in your studies, please consider citing
+```
+@article{schmitt2021there,
+  title={There is no data like more data--current status of machine learning datasets in remote sensing},
+  author={Schmitt, Michael and Ahmadi, Seyed Ali and H{\"a}nsch, Ronny},
+  journal={arXiv preprint arXiv:2105.11726},
+  year={2021}
+}
+```
