@@ -201,6 +201,9 @@ You can find more information at our IGARSS-2021 paper at https://arxiv.org/abs/
 | MOR-UAV                                                                        | 2020                | 10948            | 1080           | 12769747200  | SemSeg       |                   |             | https://visionintelligence.github.io/Datasets.html                                                                                  |
 
 
+## Contribution
+Any contribution in expanding this list are welcomed. You can introduce your own benchmark datasets, or other published ones to be added to this list.
+
 
 ## Citation
 In case you use this information in your studies, please consider citing
