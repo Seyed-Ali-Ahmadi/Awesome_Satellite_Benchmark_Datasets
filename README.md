@@ -6,17 +6,15 @@ To the best of our knowledge, and to the best of our findings, until May 2021, t
 This list is going to be more complete in the future and we are still working on it.
 
 ## Datasets
+**181** benchmark satellite datasets have been reviewed and their statistics is provided in the following table. The table includes a link to the datasets webpages, their volume, publication date, their specidied task and some other stats. The figures in the paper summarize these stats.
 
 ![Timeline graph new_final_correctedYAXIS](https://user-images.githubusercontent.com/53389122/124366325-2f19ea80-dc64-11eb-86c6-0efc8d269ffd.png)
 
-**181** benchmark satellite datasets have been reviewed and their statistics is provided in the following table. The table includes a link to the datasets webpages, their volume, publication date, their specidied task and some other stats. The figures in the paper summarize these stats.
-
 Also, the following drawing simplifies the concept behind our "Size Measure" and "Volume Measure". 
-
-### Paper
 
 ![Schmitt_IGARSS2021](https://user-images.githubusercontent.com/53389122/124365352-a51a5380-dc5c-11eb-8c51-6e4bd31a58c2.png)
 
+### Paper
 You can find more information at our IGARSS-2021 paper at https://arxiv.org/abs/2105.11726
 
 ***NOTICE: You can find each dataset's link on the most right column. Scroll the table to right!***
