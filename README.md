@@ -5,6 +5,9 @@ Annotated datasets have become one of the most crucial preconditions for the dev
 To the best of our knowledge, and to the best of our findings, until May 2021, the following graph displays more than 90% of the benchmark datasets in remote sensing and photogrammetry. This graph includes all the available datasets which are acquired using airborne/spaceborne imaging/radar sensors. (It DOES NOT include POINT CLOUD datasets).
 This list is going to be more complete in the future and we are still working on it.
 
+## Contributors 
+This study is a collaboration between [Michael Schmitt](https://schmitt-muc.github.io/), [Ronny Hänsch](http://www.rhaensch.de/) and me.
+
 ## Datasets
 **181** benchmark satellite datasets have been reviewed and their statistics is provided in the following table. The table includes a link to the datasets webpages, their volume, publication date, their specidied task and some other stats. The figures in the paper summarize these stats.
 
