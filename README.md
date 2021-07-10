@@ -11,7 +11,7 @@ This study is a collaboration between [Michael Schmitt](https://schmitt-muc.gith
 ## Datasets
 **181** benchmark satellite datasets have been reviewed and their statistics is provided in the following table. The table includes a link to the datasets webpages, their volume, publication date, their specidied task and some other stats. The figures in the paper summarize these stats.
 
-![Timeline graph new_final_correctedYAXIS](https://user-images.githubusercontent.com/53389122/124366325-2f19ea80-dc64-11eb-86c6-0efc8d269ffd.png)
+![Scatter](https://user-images.githubusercontent.com/53389122/125167119-2ff6d300-e1b4-11eb-86b6-98e3636916f7.jpg)
 
 Also, the following drawing simplifies the concept behind our "Size Measure" and "Volume Measure". 
 
