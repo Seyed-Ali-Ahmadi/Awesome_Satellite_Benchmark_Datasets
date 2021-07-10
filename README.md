@@ -15,7 +15,7 @@ This study is a collaboration between [Michael Schmitt](https://schmitt-muc.gith
 
 Also, the following drawing simplifies the concept behind our "Size Measure" and "Volume Measure". 
 
-![Schmitt_IGARSS2021](https://user-images.githubusercontent.com/53389122/124365352-a51a5380-dc5c-11eb-8c51-6e4bd31a58c2.png)
+![Schmitt_IGARSS2021](https://user-images.githubusercontent.com/53389122/125167218-ad224800-e1b4-11eb-9d11-fd4c09dcea3b.png)
 
 ### Paper
 You can find more information at our IGARSS-2021 paper at https://arxiv.org/abs/2105.11726
