@@ -10,12 +10,13 @@ This study is a collaboration between [Michael Schmitt](https://schmitt-muc.gith
 
 ## Datasets
 **181** benchmark satellite datasets have been reviewed and their statistics is provided in the following table. The table includes a link to the datasets webpages, their volume, publication date, their specidied task and some other stats. The figures in the paper summarize these stats.
-
-![Scatter](https://user-images.githubusercontent.com/53389122/125167119-2ff6d300-e1b4-11eb-86b6-98e3636916f7.jpg)
+ 
+*(For the high resolution scatter image please refer to the paper.)*
+![ScatterTimeLine](https://user-images.githubusercontent.com/53389122/125167119-2ff6d300-e1b4-11eb-86b6-98e3636916f7.jpg)
 
 Also, the following drawing simplifies the concept behind our "Size Measure" and "Volume Measure". 
 
-![Schmitt_IGARSS2021](https://user-images.githubusercontent.com/53389122/125167218-ad224800-e1b4-11eb-9d11-fd4c09dcea3b.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/53389122/125167218-ad224800-e1b4-11eb-9d11-fd4c09dcea3b.png" height="400" />
 
 ### Paper
 You can find more information at our IGARSS-2021 paper at https://arxiv.org/abs/2105.11726
