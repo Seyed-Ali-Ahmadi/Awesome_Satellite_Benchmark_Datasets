@@ -22,6 +22,7 @@ Also, the following drawing simplifies the concept behind our "Size Measure" and
 You can find more information at our IGARSS-2021 paper at https://arxiv.org/abs/2105.11726
 
 ***NOTICE: You can find each dataset's link on the most right column. Scroll the table to right!***
+***NOTICE: Finish the table. You'll find more AWESOME stuff!***
 
 ### Datasets table
 
@@ -219,3 +220,32 @@ In case you use this information in your studies, please consider citing
   year={2021}
 }
 ```
+ 
+# References and related links (Awesome of Awesomes)
+Here I acknowledge some useful lists and pages which can enrich your mind about Earth Observation and make us closer.
+
+🛰️ List of [satellite image training datasets](https://awesomeopensource.com/project/chrieke/awesome-satellite-imagery-datasets) with annotations for computer vision and deep learning
+
+A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about [Earth Observation and Geospatial stuff](https://github.com/acgeospatial/awesome-earthobservation-code)!
+
+A curated list of awesome [tools, tutorials and APIs](https://github.com/Fernerkundung/awesome-sentinel) related to data from the Copernicus Sentinel Satellites.
+
+[Remote Sensing](https://github.com/attibalazs/awesome-remote-sensing) is very exciting.
+ 
+Long list of [geospatial analysis tools](https://github.com/sacridini/Awesome-Geospatial).
+ 
+[List](https://github.com/chrieke/awesome-geospatial-companies) of 500+ geospatial companies & interactive map.
+
+List of datasets, codes, and contests related to [remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection).
+ 
+[Zhang Bin's list of data](https://zhangbin0917.github.io/2018/06/12/%E9%81%A5%E6%84%9F%E6%95%B0%E6%8D%AE%E9%9B%86/).
+ 
+The Top 112 [Super Resolution](https://awesomeopensource.com/projects/super-resolution) Open Source Projects.
+ 
+Super Resolution Methods [1](https://github.com/oneTaken/Awesome-SuperResolution), [2](https://github.com/idealo/image-super-resolution), [3](https://github.com/ChaofWang/Awesome-Super-Resolution), [4](https://github.com/ptkin/Awesome-Super-Resolution), [5](https://github.com/MIVRC/Image-Super-Resolution-Guide)
+ 
+[Kaggle datasets](https://www.kaggle.com/datasets)
+ 
+
+
+ 
