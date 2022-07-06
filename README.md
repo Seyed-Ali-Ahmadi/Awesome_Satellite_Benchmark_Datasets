@@ -205,6 +205,7 @@ You can find more information at our IGARSS-2021 paper at https://arxiv.org/abs/
 || WHU-Hi                                                                         | 2020                | 3                | 1217           | 1035251      | SemSeg       |                   | 817         | http://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm                                                                                 |
 || MOR-UAV                                                                        | 2020                | 10948            | 1080           | 12769747200  | SemSeg       |                   |             | https://visionintelligence.github.io/Datasets.html                                                                                  |
 || Sentinel-2 Cloud Detection (WHUS2-CD+)                                         | 2021                | 36               | 10980          | 4340174000   | CD           |                   | 27800       | https://github.com/Neooolee/WHUS2-CD
+|| CDD (season-varying) | 2018 | 10000 | 256 | | CD | | 2700 |https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9
  
 
 ## Contribution
