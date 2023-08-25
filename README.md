@@ -19,7 +19,8 @@ Also, the following drawing simplifies the concept behind our "Size Measure" and
 <p align="center"><img src="https://user-images.githubusercontent.com/53389122/125167218-ad224800-e1b4-11eb-9d11-fd4c09dcea3b.png" height="400" />
 
 ### Paper
-You can find more information at our IGARSS-2021 paper at https://arxiv.org/abs/2105.11726
+UPDATE (09 August 2023): Our review paper with a team of scientists around the world is published in IEEE GRSM. You can find it in [this link](https://ieeexplore.ieee.org/abstract/document/10213439).
+You can find more information at our [IGARSS-2021 paper](https://arxiv.org/abs/2105.11726).
 
 ***NOTICE: You can find each dataset's link on the most right column. Scroll the table to right!***
 ***NOTICE: Finish the table. You'll find more AWESOME stuff!***
