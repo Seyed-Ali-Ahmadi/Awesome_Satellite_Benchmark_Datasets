@@ -22,6 +22,8 @@ Also, the following drawing simplifies the concept behind our "Size Measure" and
 UPDATE (09 August 2023): Our review paper with a team of scientists around the world is published in IEEE GRSM. You can find it in [this link](https://ieeexplore.ieee.org/abstract/document/10213439).
 You can find more information at our [IGARSS-2021 paper](https://arxiv.org/abs/2105.11726).
 
+⭐⭐⭐ Our new paper which is an extended version of the above paper is published as a review paper in IEEE Geoscience and Remote Sensing Magazine (GRSM). You can find it in [this link](https://ieeexplore.ieee.org/document/10213439).⭐⭐⭐
+
 ***NOTICE: You can find each dataset's link on the most right column. Scroll the table to right!***
 ***NOTICE: Finish the table. You'll find more AWESOME stuff!***
 
